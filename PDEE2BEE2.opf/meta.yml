@@ -1,0 +1,27 @@
+id: PDEE2BEE2
+initial_creation_type: input
+source_metadata:
+  title: Guru Sādhana Series
+  language: en
+  description: 'A series of Guru Sādhana (bla sgrub) texts:'
+  volume:
+    7fa64c0de33a4e1faec3cab8a8c58212:
+      title: Guru Sādhana of Glorious Dharmakīrti
+      parent: Dharmakīrti
+    c672389d3d2f4c258ffa3e13c4656afd:
+      title: Guru Sādhana of the Omniscient Dolpopa
+      parent: Dolpopa Sherab Gyaltsen
+    2afb5d5cc53e460d80ff89aacd5767e0:
+      title: Guru Sādhana of Garab Dorje
+      parent: Garab Dorje
+    71453035857745cea5c52a45d9c9e7c2:
+      title: 'Wisdom Nexus: A Guru Sādhana'
+      parent: Padmasambhava
+    aa5410ca27ca48e89b13d6dd760fb54d:
+      title: 'Self-Arising Wisdom: Songtsen Gampo Guru Sādhana'
+      parent: Songtsen Gampo
+    5eeded998d554ca5bb60b52050d3a9f8:
+      title: Sādhana of the Great Master Vairotsana
+      parent: Vairotsana
+created_at: '2022-03-01T03:51:39.084371'
+last_modified_at: '2022-03-01T03:51:39.084377'
